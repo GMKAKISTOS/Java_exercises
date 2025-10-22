@@ -1,4 +1,4 @@
-# Java Exercises
+# Java exercises
 
 This repository contains a collection of Java exercises designed to enhance programming skills. It includes various projects and examples covering different aspects of Java development.
 
