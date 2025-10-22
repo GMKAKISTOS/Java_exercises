@@ -36,11 +36,7 @@ This repository contains a collection of Java exercises designed to enhance prog
 
 1.  **Building Projects**:
 
-    *   Use Apache Ant to build individual projects. Navigate to the project directory (e.g., `Java_Exercises_1/Exercise1/Calendar Birthday/`) and run:
-
-        ```bash
-        ant
-        ```
+    *   Use Netbeans IDE to build individual projects.
 
 2.  **Running Applications**:
 
@@ -49,5 +45,5 @@ This repository contains a collection of Java exercises designed to enhance prog
 ## Dependencies
 
 *   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html): Required for compiling and running Java code.
-*   [Apache Ant](https://ant.apache.org/): Used for automating the build process via `build.xml` files.
+*   Netbeans IDE
 *   Any libraries specified within the individual project structures.
