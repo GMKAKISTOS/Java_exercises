@@ -7,9 +7,6 @@ This repository contains a collection of Java exercises designed to enhance prog
 * [Installation](#installation)
 * [Usage](#usage)
 * [Dependencies](#dependencies)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 ## Features
 
@@ -54,23 +51,3 @@ This repository contains a collection of Java exercises designed to enhance prog
 *   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html): Required for compiling and running Java code.
 *   [Apache Ant](https://ant.apache.org/): Used for automating the build process via `build.xml` files.
 *   Any libraries specified within the individual project structures.
-
-## Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Implement your changes and ensure they are well-tested.
-4.  Submit a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under a Placeholder License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For questions, issues, or contributions, please contact:
-
-*   panoschron97 - [Placeholder Email]
-```
