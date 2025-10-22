@@ -13,7 +13,6 @@ This repository contains a collection of Java exercises designed to enhance prog
 *   **Variety of Exercises**: A wide range of Java exercises to cater to different skill levels.
 *   **Well-Structured Projects**: Organized projects with clear directory structures for easy navigation.
 *   **Practical Examples**: Hands-on examples to illustrate core Java concepts and best practices.
-*   **Build Scripts**: Includes `build.xml` files for building projects using Apache Ant.
 *   **PDF Documentation**: Contains PDF files (`icsd15222_Home01.pdf`, `icsd15222_Home1.pdf`) with potentially relevant homework descriptions.
 
 ## Installation
