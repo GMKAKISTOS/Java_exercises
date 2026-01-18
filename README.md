@@ -20,7 +20,7 @@ This repository contains a collection of Java exercises designed to enhance prog
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Java_exercises.git
+    git clone https://github.com/GMKAKISTOS/Java_exercises.git
     ```
 
 2.  Navigate to the project directory:
